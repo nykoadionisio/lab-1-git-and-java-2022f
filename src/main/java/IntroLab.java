@@ -25,7 +25,7 @@ public class IntroLab {
         String message_to_print = greeting + "! My name is " + name + "! ";
 
         if (likes_cats) {
-            message_to_print += "I like cats more than dogs! ";
+            message_to_print += "I like dogs! ";
         } else {
             message_to_print += "I like dogs more than cats! ";
         }
